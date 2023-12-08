@@ -1,6 +1,6 @@
 # ParkingSim
-Simple 2D parking simulator
-The red line represents the curb
+Simple 2D parking simulator<br>
+The red line represents the curb<br>
 The green strip represents the ideal distance from the wheels to the curb
 Controls
 - Use left/right arrow keys to turn the steering wheel (+shift to slow down)
